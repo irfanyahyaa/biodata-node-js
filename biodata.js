@@ -4,3 +4,5 @@ exports.biodata = function (nama, tempatLahir, tanggalLahir, alamat) {
     console.log("Tanggal Lahir: " + tanggalLahir)
     console.log("Alamat: " + alamat)
 };
+
+
